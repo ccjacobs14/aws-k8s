@@ -1,0 +1,5 @@
+account number: 
+region: 
+cluster name: lil-eks
+user arn:  
+subnet id: 
